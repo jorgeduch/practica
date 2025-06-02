@@ -34,7 +34,7 @@ section {
     margin: 20px auto;
     border-radius: 20px;
     max-width: 90%;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+    box-shadow: 0 4px 8px rgba(95, 1, 95, 0.05);
 }
 
 .listas-hobbies {
@@ -51,7 +51,7 @@ section {
     border-radius: 20px;
     color: white;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(158, 1, 160, 0.2);
     background-size: cover;
     background-position: center;
 }
